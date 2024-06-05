@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['8000-richprich-django1-hp8fwt854xr.ws-eu114.gitpod.io',
 '.herokuapp.com']
 
 
-# Application definition
+# Application definitio
 
 INSTALLED_APPS = [
     'django.contrib.admin',
